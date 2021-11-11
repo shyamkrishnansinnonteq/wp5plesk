@@ -29,7 +29,8 @@ define( 'DB_USER', 'wp_cwm59' );
 define( 'DB_PASSWORD', 'Xm_B#@y8Mila5J0%' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'localhost:3306' );
+define( 'DB_HOST', 'localhost');
+
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
@@ -74,3 +75,5 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 /** Sets up WordPress vars and included files. */
 require_once ABSPATH . 'wp-settings.php';
+
+define('WP_ALLOW_REPAIR', true);
