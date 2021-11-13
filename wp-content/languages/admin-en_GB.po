@@ -12477,7 +12477,7 @@ msgstr "<strong><em>Note that password</em></strong> carefully! It is a <em>rand
 
 #: wp-admin/includes/upgrade.php:240
 msgid "Hello world!"
-msgstr "Hello world!5"
+msgstr "Hello world!"
 
 #. translators: Default post slug.
 #: wp-admin/includes/upgrade.php:242 wp-admin/includes/upgrade.php:510
