@@ -1,0 +1,276 @@
+{
+    "RPT": {
+        "ScanTime": "0.66 sec.",
+        "ScanFile": "20211118_newsportaldevelop_3a2e041b14d840d58710_20211121140126_scan.json",
+        "Warnings": 0,
+        "Success": 6
+    },
+    "SRV": {
+        "PHP": {
+            "websrv": true,
+            "openbase": true,
+            "maxtime": true,
+            "mysqli": true,
+            "version": true
+        },
+        "SYS": {
+            "managedHost": true,
+            "ALL": "Good"
+        },
+        "WP": {
+            "version": true,
+            "core": true,
+            "ismu": false,
+            "ALL": "Good"
+        }
+    },
+    "ARC": {
+        "Size": "0B",
+        "DirCount": "0",
+        "FileCount": "0",
+        "FullCount": "0",
+        "WarnFileCount": 0,
+        "WarnDirCount": 0,
+        "UnreadableDirCount": 0,
+        "UnreadableFileCount": 0,
+        "FilterDirsAll": [
+            "C:\/xampp\/htdocs\/wp6\/wordpress\/.opcache",
+            "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/ai1wm-backups",
+            "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/backups-dup-lite",
+            "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/backups-dup-pro",
+            "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/backupwordpress",
+            "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/bps-backup",
+            "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/cache",
+            "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/content\/cache",
+            "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/contents\/cache",
+            "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/infinitewp\/backups",
+            "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/managewp\/backups",
+            "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/old-cache",
+            "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/plugins\/all-in-one-wp-migration\/storage",
+            "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/updraft",
+            "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/uploads\/aiowps_backups",
+            "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/uploads\/backupbuddy_backups",
+            "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/uploads\/backupbuddy_temp",
+            "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/uploads\/ithemes-security\/backups",
+            "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/uploads\/mainwp\/backup",
+            "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/uploads\/pb_backupbuddy",
+            "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/uploads\/snapshots",
+            "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/uploads\/sucuri",
+            "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/uploads\/wp-clone",
+            "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/uploads\/wp_all_backup",
+            "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/uploads\/wpbackitup_backups",
+            "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/wfcache",
+            "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/wishlist-backup",
+            "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-snapshots"
+        ],
+        "FilterFilesAll": [
+            "error_log",
+            "error.log",
+            "debug_log",
+            "ws_ftp.log",
+            "dbcache",
+            "pgcache",
+            "objectcache",
+            ".DS_Store",
+            "C:\/xampp\/htdocs\/wp6\/wordpress\/.htaccess",
+            "C:\/xampp\/htdocs\/wp6\/wordpress\/web.config",
+            "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-config.php"
+        ],
+        "FilterExtsAll": [],
+        "FilterInfo": {
+            "Dirs": {
+                "Warning": [],
+                "Unreadable": [],
+                "AddonSites": [],
+                "Core": [
+                    "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-snapshots",
+                    "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/backups-dup-lite",
+                    "C:\/xampp\/htdocs\/wp6\/wordpress\/.opcache",
+                    "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/backups-dup-pro",
+                    "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/ai1wm-backups",
+                    "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/backupwordpress",
+                    "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/content\/cache",
+                    "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/contents\/cache",
+                    "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/infinitewp\/backups",
+                    "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/managewp\/backups",
+                    "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/old-cache",
+                    "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/plugins\/all-in-one-wp-migration\/storage",
+                    "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/updraft",
+                    "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/wishlist-backup",
+                    "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/wfcache",
+                    "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/bps-backup",
+                    "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/cache",
+                    "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/uploads\/aiowps_backups",
+                    "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/uploads\/backupbuddy_temp",
+                    "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/uploads\/backupbuddy_backups",
+                    "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/uploads\/ithemes-security\/backups",
+                    "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/uploads\/mainwp\/backup",
+                    "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/uploads\/pb_backupbuddy",
+                    "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/uploads\/snapshots",
+                    "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/uploads\/sucuri",
+                    "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/uploads\/wp-clone",
+                    "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/uploads\/wp_all_backup",
+                    "C:\/xampp\/htdocs\/wp6\/wordpress\/wp-content\/uploads\/wpbackitup_backups"
+                ],
+                "Global": [],
+                "Instance": []
+            },
+            "Files": {
+                "Size": [],
+                "Warning": [],
+                "Unreadable": [],
+                "AddonSites": [],
+                "Core": [],
+                "Global": [
+                    "error_log",
+                    "error.log",
+                    "debug_log",
+                    "ws_ftp.log",
+                    "dbcache",
+                    "pgcache",
+                    "objectcache",
+                    ".DS_Store"
+                ],
+                "Instance": []
+            },
+            "Exts": {
+                "Core": [],
+                "Global": [],
+                "Instance": []
+            },
+            "UDirCount": 0,
+            "UFileCount": 0,
+            "UExtCount": 0,
+            "TreeSize": [],
+            "TreeWarning": []
+        },
+        "RecursiveLinks": [],
+        "UnreadableItems": [],
+        "Status": {
+            "Size": "Good",
+            "Names": "Good",
+            "UnreadableItems": "Good",
+            "MigratePackage": "Good",
+            "CanbeMigratePackage": true,
+            "showCreateProcFuncStatus": "Good",
+            "showCreateProcFunc": true,
+            "AddonSites": "Good"
+        },
+        "Dirs": [],
+        "Files": []
+    },
+    "DB": {
+        "Status": {
+            "Success": true,
+            "DB_Case": "Good",
+            "DB_Rows": "Good",
+            "DB_Size": "Good",
+            "TBL_Case": "Good",
+            "TBL_Rows": "Good",
+            "TBL_Size": "Good",
+            "Triggers": "Good"
+        },
+        "Size": "848KB",
+        "Rows": "203",
+        "TableCount": 15,
+        "TableList": {
+            "uook9q2at_commentmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "uook9q2at_comments": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "96KB",
+                "USize": 98304
+            },
+            "uook9q2at_duplicator_packages": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "uook9q2at_links": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "uook9q2at_options": {
+                "Case": 0,
+                "Rows": "163",
+                "Size": "112KB",
+                "USize": 114688
+            },
+            "uook9q2at_postmeta": {
+                "Case": 0,
+                "Rows": "7",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "uook9q2at_posts": {
+                "Case": 0,
+                "Rows": "12",
+                "Size": "80KB",
+                "USize": 81920
+            },
+            "uook9q2at_term_relationships": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "uook9q2at_term_taxonomy": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "uook9q2at_termmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "uook9q2at_terms": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "uook9q2at_usermeta": {
+                "Case": 0,
+                "Rows": "20",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "uook9q2at_users": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "64KB",
+                "USize": 65536
+            },
+            "uook9q2at_wpsynchro_file_population_list": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "uook9q2at_wpsynchro_sync_list": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "96KB",
+                "USize": 98304
+            }
+        },
+        "RawSize": 868352
+    },
+    "LL": {
+        "TotalSize": "848KB",
+        "Status": {
+            "TotalSize": "Good"
+        }
+    }
+}
